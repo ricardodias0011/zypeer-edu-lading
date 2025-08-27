@@ -3,6 +3,7 @@ import { MagnifierIcon, WalletIcon, ChartIcon } from "./Icons";
 import mobileLight from "../assets/mobile-light.png";
 import mobile from "../assets/mobile.png";
 import { useTheme } from "./theme-provider";
+import { JSX } from "react";
 
 interface ServiceProps {
   title: string;

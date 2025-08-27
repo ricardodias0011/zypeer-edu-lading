@@ -10,6 +10,7 @@ import { Pricing } from "./components/Pricing";
 import { ScrollToTop } from "./components/ScrollToTop";
 import { Services } from "./components/Services";
 import "./App.css";
+import "./index.css";
 import PrivacyPolicy from "./components/privacity-policy";
 import LiabilityPolicy from "./components/liability-policy";
 
